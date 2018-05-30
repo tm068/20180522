@@ -18,7 +18,7 @@ public class Recognition01_main {
 		service.setEndPoint("https://gateway.watsonplatform.net/visual-recognition/api");
 
 		IamOptions options = new IamOptions.Builder()
-				.apiKey("{EYT41cEOK7QwwrYiNbJJAU_OzYa4I2h6_1kmsmCtCyf9}")
+				.apiKey("{1518068}")
 				.build();
 		service.setIamCredentials(options);
 
